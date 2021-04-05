@@ -118,6 +118,7 @@ This is useful for users and people that offer a service for the product.
 ### Page for a part
 
 - List of used materials and quantities
+- List products that use this part (help to cannab.)
 - Shop of disassembled product parts
 - Location of production
 - Location of injection-molds
