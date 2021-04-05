@@ -94,7 +94,7 @@ In case lead time gets too long, a temporary or permanent replacement must be co
 Each product and of its parts can be explored and understood to the deepest level.
 This is useful for users and people that offer a service for the product.
 
-### Website for a specific product
+### Page for a specific product
 
 - Manuals
 - List of parts and modules
@@ -108,14 +108,14 @@ This is useful for users and people that offer a service for the product.
 - List of Add-on products
 - Rating of product
 
-### Website for a module
+### Page for a module
 
 - Manuals
 - Assembly guide
 - list of parts and modules
 - Shop to Buy / Rent
 
-### Website for a part
+### Page for a part
 
 - List of used materials and quantities
 - Shop of disassembled product parts
@@ -123,7 +123,7 @@ This is useful for users and people that offer a service for the product.
 - Location of injection-molds
 - 3D CAD/CAM files to reproduce
 
-### Website for a material
+### Page for a material
 
 - Sourcing
 - Recyclability
